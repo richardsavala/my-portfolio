@@ -45,4 +45,4 @@ export default function Projects() {
       </div>
     </section>
   );
-}
+}  
