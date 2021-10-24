@@ -42,4 +42,4 @@ export const testimonials = [{
     },
 ];
 
-export const skills = ["JavaScript", "React", "Node", "Tailwind", 'Git'];
+export const skills = ["JavaScript", "React", "Node", "Tailwind", "Git"];
