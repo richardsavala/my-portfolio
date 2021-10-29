@@ -9,7 +9,7 @@ export const projects = [{
         title: "React Stripe Menu",
         subtitle: "React Advanced Tutorial React",
         description: "Navbar built with React, it looks great!",
-        image: "./stripe2.gif",
+        image: "./stripe.gif",
         link: "https://github.com/richardsavala/react-stripe-menus",
     },
     {
