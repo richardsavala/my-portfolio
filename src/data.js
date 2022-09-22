@@ -29,17 +29,17 @@ export const projects = [{
 ];
 
 export const testimonials = [{
-        quote: "Richard is great! Richard made my candidate a website fast.",
+        quote: "Richard made me a website, and a matching business card.",
         image: "https://randomuser.me/api/portraits/men/1.jpg",
-        name: "Bob Soloman",
-        company: "",
+        name: "Nathaniel Titsworth",
+        company: "DIAMOND PRESSURE WASHING",
     },
     {
-        quote: "Richard was great. He built my companys website fast!",
+        quote: "Richard is making me a website, he's kept me up to date",
         image: "https://randomuser.me/api/portraits/men/94.jpg",
-        name: "Colter Congerf",
-        company: "",
+        name: "Tommy Young",
+        company: "Young Buns Hotdogs",
     },
 ];
 
-export const skills = ["JavaScript", "React", "Node", "Tailwind", "Git"];
+export const skills = ["HTML 5", "CSS", "JavaScript", "React", "npm", "git"]
