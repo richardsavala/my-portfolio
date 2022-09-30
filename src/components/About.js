@@ -29,7 +29,7 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2.w-5/6">
           <img
-            src="./public/portfolio-pic-2.jpg"
+            src="public/portfolio-pic-2.jpg"
             alt="hero"
             className="object-cover object-center rounded"
           />
